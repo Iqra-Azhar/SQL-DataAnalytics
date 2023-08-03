@@ -1,0 +1,34 @@
+queries 
+Certainly! Here are some SQL query questions for the "Website Analytics" database:
+
+1. Retrieve all the visitors' information from the "Visitors" table.
+
+2. Get the unique countries from which visitors accessed the website.
+
+3. Find the total number of page views in the "Page_Views" table.
+
+4. List all the interactions performed on the website along with their timestamps.
+
+5. Get the names and URLs of all the pages in the "Pages" table.
+
+6. Find the number of interactions of each type (interaction_type) in the "Interactions" table.
+
+7. Retrieve the visitor_id, visitor_ip, and country of the visitors who accessed the website using the "Chrome" browser.
+
+8. List all the pages that were created after '2023-07-01'.
+
+9. Find the average number of interactions per visitor in the "Interactions" table.
+
+10. Get the page_name, visitor_id, and interaction_type for all the interactions that occurred on '2023-07-01 10:05:00'.
+
+11. Retrieve the top 5 most visited pages and their corresponding page view counts.
+
+12. Find the page with the highest number of interactions and the total number of interactions on that page.
+
+13. Get the number of unique visitors from each country.
+
+14. Retrieve all the visitors who accessed the website using a "Mobile" device type.
+
+15. Find the pages with the highest bounce rate (the percentage of visitors who viewed only one page).
+
+These SQL query questions will help you extract valuable insights and analyze the data in the "Website Analytics" database.
